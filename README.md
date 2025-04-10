@@ -61,6 +61,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="40" alt="html logo" />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo" />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original.svg" height="40" alt="vercel logo" />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original.svg" height="40" alt="vite logo" />
 </div>
 
 
