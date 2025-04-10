@@ -70,7 +70,7 @@
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original.svg" height="40" alt="vercel logo" />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original.svg" height="40" alt="vite logo" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vite/vite-original.svg" height="40" alt="vite logo" />
 </div>
 
 
